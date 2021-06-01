@@ -1,0 +1,2 @@
+# powershell7_qlik_replicate_api_stop_start_advance_start
+Interacting with Qlik Replicate software via Powershell 7
