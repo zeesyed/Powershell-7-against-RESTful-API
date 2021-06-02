@@ -27,6 +27,7 @@ This code includes the following programming features:
   * Other programming features that can be seen are:
     - securely logging into HTTPS with Base64 Password hash
 	* nested ifs & while loops
+	* functions to reduce code redundancy
 	* conditional logics
 	* regex searches
 	* error handing and exception throwing with error codes to pass on to the other porgrams ( Control-M enteprise scheduler)
