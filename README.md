@@ -4,8 +4,7 @@ Interacting with Qlik Replicate RESTful API via Powershell 7 to control Data Rep
 
 Read the Flowchat.pdf file to look at the programatic flow. 
 
-At a very high level the project is trying to solve a problem of manual interefernce in managing data replication across multiple disperate databases ( Oracle, SQL Server, DB2i) 
-The code uses Powershell 7.0 to control (stop, start, advance start) replication tasks. Powershell interacts with Qlik/Attunity Replicate Enterprise Manager via the RESTfulAPI
+At a very high level the project is trying to solve a problem of manual interference in managing data replication across multiple disparate databases ( Oracle, SQL Server, DB2i) The code uses PowerShell 7.0 to control (stop, start, advance start) replication tasks. PowerShell interacts with Qlik/Attunity Replicate Enterprise Manager via the RESTful API.
 
 Requirements
 ------------
