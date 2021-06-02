@@ -1,8 +1,11 @@
 # powershell7_qlik_replicate_api_stop_start_advance_start
 Interacting with Qlik Replicate RESTful API via Powershell 7 to control Data Replication
 -----------------
+_15_Seconds_Read_
 
-Read the Flowchat.pdf file to look at the programatic flow. 
+Look at the **Flowchat.pdf** file to look at the programatic flow. 
+
+_1 min Read_
 
 At a very high level the project is trying to solve a problem of manual interference in managing data replication across multiple disparate databases ( Oracle, SQL Server, DB2i) The code uses PowerShell 7.0 to control (stop, start, advance start) replication tasks. PowerShell interacts with Qlik/Attunity Replicate Enterprise Manager via the RESTful API.
 
