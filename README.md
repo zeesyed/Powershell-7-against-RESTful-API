@@ -3,7 +3,7 @@ Interacting with Qlik Replicate RESTful API via Powershell 7 to control Data Rep
 -----------------
 _15_Seconds_Read_
 
-Look at the **Flowchat.pdf** file to look at the programatic flow. 
+Look at the **aem_start/stop_flow.pdf** file to look at the programatic flow. 
 
 _1 min Read_
 
